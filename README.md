@@ -62,7 +62,7 @@ Others:
     + Thuộc tính
     + Constructor
     + Get - Set
-    + Method
+    + Method[]()
 - Tạo đối tượng
 - Kế thừa và đa hình
 - Lớp trừu tượng
