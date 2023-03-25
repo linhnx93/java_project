@@ -9,4 +9,3 @@ public class b10_tìmhieuscaner {
     }
 
     }
-}
